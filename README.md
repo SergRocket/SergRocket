@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @SergRocket
-- 👀 I’m interested in QA Automation based on Java
-- 🌱 I’m currently learning Collections(Java), Automation Api
-- 💞️ I’m looking to collaborate on QA Automation
+- 👋 Hi, I’m @Serg
+- 👀 I’m interested in QA Automation
 - 📫 How to reach me serg.lishko1988@gmail.com
 
 <!---
